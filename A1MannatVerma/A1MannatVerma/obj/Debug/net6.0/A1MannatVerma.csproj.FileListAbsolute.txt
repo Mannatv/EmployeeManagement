@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\bin\Debug\net6.0\A1MannatVerma.exe
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\bin\Debug\net6.0\A1MannatVerma.deps.json
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\bin\Debug\net6.0\A1MannatVerma.runtimeconfig.json
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\bin\Debug\net6.0\A1MannatVerma.dll
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\bin\Debug\net6.0\A1MannatVerma.pdb
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\A1MannatVerma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\A1MannatVerma.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\A1MannatVerma.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\A1MannatVerma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\A1MannatVerma.dll
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\refint\A1MannatVerma.dll
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\A1MannatVerma.pdb
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\A1MannatVerma.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_term4\A1MannatVerma\A1MannatVerma\obj\Debug\net6.0\ref\A1MannatVerma.dll
